@@ -1,5 +1,7 @@
 # Muhammad Hassan Khatri — Portfolio
 
+🔗 **Live site:** https://frabjous-seahorse-349137.netlify.app/
+
 Personal portfolio for a BSCS student at SZABIST University, showcasing
 three real GitHub projects.
 
