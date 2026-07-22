@@ -2,8 +2,7 @@
 
 🔗 **Live site:** https://frabjous-seahorse-349137.netlify.app/
 
-Personal portfolio for a BSCS student at SZABIST University, showcasing
-three real GitHub projects.
+Personal portfolio for a BSCS student at SZABIST University, showcasing real GitHub projects.
 
 ## Framework choice
 
