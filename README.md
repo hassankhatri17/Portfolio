@@ -95,7 +95,3 @@ git remote add origin <your-repo-url>
 git push -u origin main
 ```
 Then: repo **Settings → Pages → Deploy from branch → main → / (root)**.
-
-**Netlify / Vercel** — drag the `portfolio/` folder onto
-app.netlify.com/drop, or run `vercel` / `netlify deploy` from inside the
-folder. No build command needed.
